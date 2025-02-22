@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhdaliOmary
-- 👀 I’m interested in In the programming field
+- 👀 I’m interested in the programming field
 - 🌱 I’m currently learning AI Agents
 - 📫 How to reach me
 - my email :mhmmaligithub@gmail.com
