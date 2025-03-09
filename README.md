@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhdaliOmary
+- 👋 Hi, I’m Mhd-ali Omary
 - 👀 I’m interested in the programming field
 - 🌱 I’m currently learning AI Agents
 - 📫 How to reach me
